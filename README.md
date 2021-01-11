@@ -3,7 +3,7 @@ Video games global sales analysis
 i use video game sales data set from:
 https://www.kaggle.com/gregorut/videogamesales by gregorysmith
 
-##Simple Analysis Results
+## Simple Analysis Results
 
 ### Top 10 Games based on total sales from 1980-2015
 ![](https://github.com/sadhityadimas/Video_Games_Sales/blob/main/images/Total_sales.png)
