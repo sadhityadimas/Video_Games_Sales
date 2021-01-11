@@ -6,7 +6,7 @@ https://www.kaggle.com/gregorut/videogamesales by gregorysmith
 ##Simple Analysis Results
 
 ### Top 10 Games based on total sales from 1980-2015
-(https://github.com/sadhityadimas/Video_Games_Sales/blob/main/images/Total_sales.png)
+![](https://github.com/sadhityadimas/Video_Games_Sales/blob/main/images/Total_sales.png)
 
 As we can see above that Wii sport dominate the global sales followed by GTA V
 what surprising is Tetris is also on the top 10 global sales chart
